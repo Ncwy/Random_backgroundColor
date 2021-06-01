@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 187, 255);
+    text-align: center;
+    margin: 10em auto;
+}
+
+button {
+    color: ghostwhite;
+    background-color: maroon;
+    height: 4em;
+    width: 8em;
+    font-size: 4em;
+}
